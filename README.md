@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: I love **Cooking and Cricket**
 
-- 🌦 I am Currently working on **Amzon Clone**
+- 💻 I am Currently working on **Amazon Clone**
 
 - 📫 Feel free to reach me at **mohitrawal3131@gmail.com**
 
@@ -57,13 +57,9 @@ const mohit = {
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrawal3112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrawal3112&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-<a href="https://github.com/mrawal3112/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrawal3112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+| <img src="https://github-readme-stats.vercel.app/api?username=mrawal3112&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrawal3112&theme=blueberry_duo"/> |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrawal3112&layout=compact&theme=github_dark"/>          |
 
 ## 🤝🏻 &nbsp;Connect with Me
 
