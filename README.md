@@ -50,8 +50,8 @@ const mohit = {
 </p>
 
 <p align="center">
-    <a href="https://github.com/placidnikz/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikhil Rawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=placidnikz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mrawal3112/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrawal3112&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -64,10 +64,10 @@ const mohit = {
 <br/>
 <br/>
 <a href="https://github.com/mrawal3112/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrawal3112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> <hr>
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<br>
 <a href="https://www.linkedin.com/in/mohit-rawal-5a7981103/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643412937~hmac=b7226c841ef0b756fca3598448e369f7" alt="LinkedIn" "43" height="43"/></a>&nbsp;
 <a href="https://www.facebook.com/mohit.rawal.165"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1643412992~hmac=034e80ddd73b82263ee0457305f28c08" alt="Facebook" "43" height="43"/></a>&nbsp;
 <a href="mailto:mohitrawal3131@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1643413085~hmac=74dda576ef609dc0c07d8fe09fcd1d57" alt="Gmail" "43" height="43"/></a>&nbsp;
