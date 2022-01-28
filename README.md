@@ -44,14 +44,12 @@ const mohit = {
 <img src='https://img.icons8.com/color/48/000000/react-native.png' alt='React'width="43" height="43">&nbsp;
 <img src='https://cdn-icons-png.flaticon.com/512/919/919831.png' alt='Scss'width="43" height="43">&nbsp;
 <img src='https://img.icons8.com/color/48/000000/bootstrap.png' alt='Bootstrap'width="43" height="43">&nbsp;
-<img src='https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1643412200~hmac=4b164c8f672831bf6167f48465d17b91' alt='Git'width="43" height="43">&nbsp;
+<img src='https://cdn-icons.flaticon.com/png/512/4494/premium/4494740.png?token=exp=1643413894~hmac=c0136242e2722760b3bdaeed4eee10a3' alt='Git'width="43" height="43">&nbsp;
 <img src='https://img.icons8.com/color/344/visual-studio-code-2019.png' alt='VS Code'width="43" height="43">&nbsp;
 <img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png' alt='jQuery'width="43" height="43">
 </p>
 
 <h3> 📊 My Github Stats </h3>
- 
-  <br/>
     <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrawal3112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrawal3112&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -64,7 +62,7 @@ const mohit = {
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/mohit-rawal-5a7981103/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643412937~hmac=b7226c841ef0b756fca3598448e369f7" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.facebook.com/mohit.rawal.165"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1643412992~hmac=034e80ddd73b82263ee0457305f28c08" alt="Facebook" /></a>&nbsp;
-<a href="mailto:mohitrawal3131@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1643413085~hmac=74dda576ef609dc0c07d8fe09fcd1d57" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohit-rawal-5a7981103/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643412937~hmac=b7226c841ef0b756fca3598448e369f7" alt="LinkedIn" "43" height="43"/></a>&nbsp;
+<a href="https://www.facebook.com/mohit.rawal.165"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1643412992~hmac=034e80ddd73b82263ee0457305f28c08" alt="Facebook" "43" height="43"/></a>&nbsp;
+<a href="mailto:mohitrawal3131@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1643413085~hmac=74dda576ef609dc0c07d8fe09fcd1d57" alt="Gmail" "43" height="43"/></a>&nbsp;
 </p>
