@@ -49,6 +49,12 @@ const mohit = {
 <img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png' alt='jQuery'width="43" height="43">
 </p>
 
+<p align="center">
+    <a href="https://github.com/placidnikz/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikhil Rawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=placidnikz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <h3> 📊 My Github Stats </h3>
     <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrawal3112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrawal3112&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
