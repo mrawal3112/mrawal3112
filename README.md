@@ -20,7 +20,7 @@
 
 - 📫 Feel free to reach me at **mohitrawal3131@gmail.com**
 
-<h3> A Little About Me </h3>
+<h3> A Little About Me </h3><hr>
 
 ```javascript
 const mohit = {
@@ -35,7 +35,7 @@ const mohit = {
 };
 ```
 
-<h3> 🛠 &nbsp; My Tech Companions</h3>
+<h3> 🛠 &nbsp; My Tech Companions</h3><hr>
 
 <p align="left"> 
 <img src='https://cdn-icons-png.flaticon.com/512/2535/2535518.png' alt='HTML5' width="43" height="43">&nbsp;
@@ -55,16 +55,15 @@ const mohit = {
     </a>
 </p>
 
-<h3> 📊 My Github Stats </h3>
+<h3> 📊 My Github Stats </h3><hr>
     <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrawal3112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mrawal3112/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrawal3112&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 <a href="https://github.com/mrawal3112/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrawal3112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> <hr>
 
 <p>
 <br>
