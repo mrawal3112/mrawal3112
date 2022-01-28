@@ -57,10 +57,10 @@ const mohit = {
 
 <br/>
 <br/>
-
+<a href="https://github.com/mrawal3112/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrawal3112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <br>
 <a href="https://www.linkedin.com/in/mohit-rawal-5a7981103/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643412937~hmac=b7226c841ef0b756fca3598448e369f7" alt="LinkedIn" "43" height="43"/></a>&nbsp;
 <a href="https://www.facebook.com/mohit.rawal.165"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1643412992~hmac=034e80ddd73b82263ee0457305f28c08" alt="Facebook" "43" height="43"/></a>&nbsp;
